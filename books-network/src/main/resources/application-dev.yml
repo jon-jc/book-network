@@ -13,4 +13,3 @@ spring:
         format_sql:
     database: postgresql
     database-platform: org.hibernate.dialect.PostgreSQLDialect
-    
